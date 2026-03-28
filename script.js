@@ -4,8 +4,8 @@ const projetos = [
     descricao: "primeiro site que eu desenvolvi"
   },
   {
-    nome: "Lista de Tarefas",
-    descricao: "App para adicionar e remover tarefas"
+    nome:  "Página de Teste"",
+    descricao: "teste"
   },
   {
     nome: "Página de Login",
