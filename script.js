@@ -1,7 +1,7 @@
 const projetos = [
   {
-    nome: "Calculadora",
-    descricao: "Calculadora simples feita com JavaScript"
+    nome: "meu portfólio",
+    descricao: "primeiro site que eu desenvolvi"
   },
   {
     nome: "Lista de Tarefas",
