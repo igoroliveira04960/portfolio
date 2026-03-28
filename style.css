@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: #333;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+nav a {
+  color: white;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+#lista-projetos {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 15px;
+}
+
+.projeto {
+  border: 1px solid #ccc;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+@media (min-width: 600px) {
+  #lista-projetos {
+    grid-template-columns: 1fr 1fr;
+  }
+  }
