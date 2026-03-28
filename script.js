@@ -5,7 +5,7 @@ const projetos = [
   },
   {
     nome:  "Página de Teste"",
-    descricao: "teste"
+    descricao: "Teste simples que fiz durante os estudos""
   },
   {
     nome: "Página de Login",
