@@ -1,12 +1,15 @@
 const projetos = [
-  
   {
-    nome:  "Página de Teste"",
-    descricao: "Teste simples que fiz durante os estudos""
+    nome: "Meu Portfólio",
+    descricao: "Primeiro site que desenvolvi"
   },
   {
-    nome: "Página de Login",
-    descricao: "Interface de login simples"
+    nome: "Página de Teste",
+    descricao: "Projeto simples para praticar HTML e CSS"
+  },
+  {
+    nome: "Exercícios de JavaScript",
+    descricao: "Testes básicos que fiz durante os estudos"
   }
 ];
 
